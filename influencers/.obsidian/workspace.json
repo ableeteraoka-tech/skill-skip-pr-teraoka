@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "3f58e2d6c1842c19",
+    "type": "split",
+    "children": [
+      {
+        "id": "b925a5a95411b3ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38fd9a3e563d875f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30代ちゃん/プレイブック_コラボ運用.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "プレイブック_コラボ運用"
+            }
+          },
+          {
+            "id": "3c0d46bda97d2406",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HM/分析サマリー.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分析サマリー"
+            }
+          },
+          {
+            "id": "4b77a965f4679f81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30代ちゃん/サポート/予約推移_出来事つき.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "予約推移_出来事つき"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9226ffd75877b3be",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a897da43814a1d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29753ac83c97079a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "aab281f4386a57eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "3fd53031042b1101",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0814067e16cbe934",
+    "type": "split",
+    "children": [
+      {
+        "id": "0243025c2342f1bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32fd2532df18d8f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "30代ちゃん/プレイブック_コラボ運用.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "プレイブック_コラボ運用へのバックリンク"
+            }
+          },
+          {
+            "id": "631873a1789811a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "30代ちゃん/プレイブック_コラボ運用.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "プレイブック_コラボ運用からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "af2105f860b607c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "9a2a16a0b56e76fb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "8a3ece3579bff4e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "30代ちゃん/プレイブック_コラボ運用.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "プレイブック_コラボ運用のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "38fd9a3e563d875f",
+  "lastOpenFiles": [
+    "30代ちゃん/定例資料_手段訴求と信頼ストック.md",
+    "30代ちゃん/2026_2月vs6月_事前診断_属性比較.md",
+    "30代ちゃん/2026-06_LINE配信メッセージ.md",
+    "HM/分析サマリー.md",
+    "美桜/訴求_悩み理想コアメッセージ案.md",
+    "美桜/参考_スキルスキップ台本/2026-03_第3回_副業収入_台本.md",
+    "美桜/参考_スキルスキップ台本/2025-11_第2回_副業収入_台本.md",
+    "美桜/参考_スキルスキップ台本/2025-08_第1回_副業収入_台本.md",
+    "美桜/参考_スキルスキップ台本",
+    "美桜/LP構成_台本.md",
+    "美桜",
+    "ホンメイ事業_カリキュラム.md",
+    "30代ちゃん/プレイブック_コラボ運用.md",
+    "30代ちゃん/サポート/2026-06_コラボ_分析.md",
+    "HM/予約管理表/HM 属性 - シート2.csv",
+    "HM/予約管理表",
+    "HM/名称未設定フォルダ",
+    "HM/カウンセリング/【福田】松村怜奈_01_新規カウンセリング_診断LP（広告_3）_未入会.txt",
+    "HM/カウンセリング/【松本】掛川恵美_01_新規カウンセリング_えま_婚約破棄した相手と結婚した女_未入会.txt",
+    "HM/カウンセリング/【松本】キョウギョウグ_01_新規カウンセリング_診断LP（広告_8）_未入会.txt",
+    "INDEX.md",
+    "30代ちゃん/サポート/予約推移_出来事つき.md",
+    "30代ちゃん/サポート/予約推移_日別時間別.md"
+  ]
+}
