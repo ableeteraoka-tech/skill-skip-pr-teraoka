@@ -1,0 +1,20 @@
+# 機密ファイル（APIキー・認証情報）
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+id_rsa*
+id_ed25519*
+
+# 依存・ビルド成果物
+node_modules/
+__pycache__/
+
+# OS・ログ
+.DS_Store
+*.log
+
+# Claude Code ローカル設定（commands/ など追跡済みのものは影響なし）
+.claude/
